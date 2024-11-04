@@ -11,6 +11,6 @@ Hello! I'm currently studying the IA master's degree at EDEM and Mathematics and
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![hangman](https://img.shields.io/static/v1?label=&message=hangman&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/paujorques02/hangman) |
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![hangman_app](https://img.shields.io/static/v1?label=&message=hangman_app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/paujorques02/hangman_app)|
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
